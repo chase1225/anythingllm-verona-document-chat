@@ -1,0 +1,8 @@
+*.jpeg binary
+*.py linguist-detectable
+*.map linguist-generated
+
+vendor/* linguist-vendored
+**/*.py linguist-detectable
+public/** linguist-vendored
+*.woff binary
