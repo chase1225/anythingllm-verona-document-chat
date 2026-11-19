@@ -1,0 +1,7 @@
+build/
+htmlcov/
+.venv/
+.pytest_cache/
+.mypy_cache/
+venv/
+env/
